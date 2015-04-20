@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EnglishTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="KEY">key</string>
+    <string name="REQ1">req1</string>
+    <string name="REQ2">req2</string>
+    <string name="REQ3">req3</string>
+    <string name="QUEST">quest</string>
+    <string name="button_next">Next</string>
+    <string name="button_reply">Reply</string>
+    <string-array name="quest">
+        <item>Sail</item>
+        <item>Sky</item>
+        <item>Earth</item>
+        <item>Society</item>
+        <item>Вed</item>
+        <item>Soft</item>
+        <item>Green</item>
+        <item>Tree</item>
+        <item>Stone</item>
+        <item>Sword</item>
+        <item>Tin</item>
+        <item>Еrror</item>
+        <item>Human</item>
+        <item>Bird</item>
+        <item>Life</item>
+        <item>Silence</item>
+        <item>Night</item>
+        <item>Light</item>
+    </string-array>
+    <string-array name="keys">
+            <item>Парус</item>
+        <item>Небо</item>
+        <item>Земля</item>
+        <item>Общество</item>
+        <item>Кровать</item>
+        <item>Мягкий</item>
+        <item>Зеленый</item>
+        <item>Дерево</item>
+        <item>Камень</item>
+        <item>Меч</item>
+        <item>Олово</item>
+        <item>Ошибка</item>
+        <item>Человек</item>
+        <item>Птица</item>
+        <item>Жизнь</item>
+        <item>Тишина</item>
+        <item>Ночь</item>
+        <item>Свет</item>
+    </string-array>
+    <string-array name="requestV1">
+        <item>Яхта</item>
+        <item>Облако</item>
+        <item>Корабль</item>
+        <item>Человек</item>
+        <item>Подушка</item>
+        <item>Мягкий</item>
+        <item>Зеленый</item>
+        <item>Камень</item>
+        <item>Луг</item>
+        <item>Меч</item>
+        <item>Метал</item>
+        <item>Егор</item>
+        <item>Человек</item>
+        <item>Рыба</item>
+        <item>Жизнь</item>
+        <item>Разговор</item>
+        <item>День</item>
+        <item>Огонь</item>
+    </string-array>
+    <string-array name="requestV2">
+        <item>Парус</item>
+        <item>Небо</item>
+        <item>Камень</item>
+        <item>Общество</item>
+        <item>Кровать</item>
+        <item>Твердый</item>
+        <item>Черный</item>
+        <item>Дерево</item>
+        <item>Река</item>
+        <item>Лук</item>
+        <item>Олово</item>
+        <item>Ошибка</item>
+        <item>Животное</item>
+        <item>Утка</item>
+        <item>Смерть</item>
+        <item>Тишина</item>
+        <item>Ночь</item>
+        <item>Свет</item>
+    </string-array>
+    <string-array name="requestV3">
+        <item>Флаг</item>
+        <item>Ключ</item>
+        <item>Земля</item>
+        <item>Игла</item>
+        <item>Плохой</item>
+        <item>Грубый</item>
+        <item>Синий</item>
+        <item>Трава</item>
+        <item>Камень</item>
+        <item>Луг</item>
+        <item>Медь</item>
+        <item>Правильно</item>
+        <item>Рыба</item>
+        <item>Птица</item>
+        <item>Невежа</item>
+        <item>Пустота</item>
+        <item>Сумерки</item>
+        <item>Луч</item>
+    </string-array>
+</resources>
