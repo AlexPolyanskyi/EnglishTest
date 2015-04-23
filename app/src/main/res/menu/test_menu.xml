@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".StartActivity" >
+    <group>
+        <item
+            android:icon="@android:drawable/ic_menu_add"
+            android:showAsAction="always|withText"
+            android:title="@string/RETURN_TO_TEST">
+        </item>
+    </group>
+</menu>

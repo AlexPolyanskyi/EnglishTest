@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="16dip"
+        android:id="@+id/testLayout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Task"
+            android:textColor="#808080"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/task" />
+
+        <RadioGroup
+            android:padding="8dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/task"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/radioGroup"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:padding="8dip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Request2"
+                android:id="@+id/radioButton3"
+                android:singleLine="false"
+                android:layout_weight="1"/>
+            <RadioButton
+                android:padding="8dip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Request1"
+                android:id="@+id/radioButton"
+                android:layout_weight="1"/>
+            <RadioButton
+                android:padding="8dip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Request3"
+                android:id="@+id/radioButton2"
+                android:layout_weight="1"/>
+        </RadioGroup>
+    </RelativeLayout>
