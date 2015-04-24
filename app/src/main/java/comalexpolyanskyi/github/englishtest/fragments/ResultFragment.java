@@ -1,8 +1,8 @@
 package comalexpolyanskyi.github.englishtest.fragments;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentTransaction;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -11,7 +11,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import comalexpolyanskyi.github.englishtest.R;
+import comalexpolyanskyi.github.englishtest.VkLoginActivity;
 import comalexpolyanskyi.github.englishtest.managers.DataManager;
+import comalexpolyanskyi.github.englishtest.utils.PostOfWall;
+import comalexpolyanskyi.github.englishtest.utils.Token;
 
 /**
  * Created by Алексей on 21.04.2015.

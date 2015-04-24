@@ -12,5 +12,20 @@
         android:text="Ваш результат "
         android:textSize="21sp"
         android:textStyle="bold"
+        android:paddingBottom="16dip"
         />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/post_to_vk"
+        android:layout_below="@id/result"
+        android:layout_centerInParent="true"
+        android:onClick="onPostButton"
+        android:id="@+id/button_post"/>
+    <TextView
+        android:id="@+id/text_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_post"
+        android:layout_centerInParent="true"/>
     </RelativeLayout>
